@@ -61,3 +61,9 @@
 // 19.  Can you make the code DRYer and refactor?
 // 20.  Can you improve the performance?
 // 21.   How have other people solved this problem?
+
+function isValidSubsequence(array, sequence) {
+  // two objects
+  // two for of loops and a for in loop
+  // return true or false
+}
