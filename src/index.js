@@ -3,6 +3,9 @@ Remember the acronym UPS check
 Step One (Understand). We have to understand the problem.
 1. What is the unknown?
 2. What are the data inputs?
+
+2 non-empty arrays of integers
+
 3. Can you restate the problem in your own words?
 4. Can the unknown be determined from the data inputs?
 5. Is the data inputs sufficient to determine the unknown? Insufficient? Redundant? Contradictory? 
